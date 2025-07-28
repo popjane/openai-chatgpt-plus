@@ -11,8 +11,8 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/安全性-100%25-green_blue" alt="充值成功率">
-  <img src="https://img.shields.io/badge/充值成功率-99.9%25-green_blue" alt="充值成功率">
+  <img src="https://img.shields.io/badge/安全性-100%25-green_blue" alt="充值安全性">
+  <img src="https://img.shields.io/badge/成功率-99.9%25-green_blue" alt="充值成功率">
 </p>
 
 
@@ -56,7 +56,7 @@
 
 ## 联系我们
 
-<div style="display:inline-flex;flex-direction: column;text-align: left;border: 1px solid #ddd; padding: 16px;border-radius: 10px;background-color: #fff; text-align: center;font-size: 16px;">
+<div style="display:inline-flex;flex-direction: column;border: 1px solid #ddd; padding: 16px;border-radius: 10px;background-color: #fff; text-align: center;font-size: 16px;">
 <img src="./images/wx.jpg" alt="联系我们">
 <span style="margin-top:10px;color:#333">微信：api-gpt</span>
 </div>
