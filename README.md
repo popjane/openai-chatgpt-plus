@@ -58,7 +58,7 @@
 
 ## 联系我们
 
-下单地址[https://shop.gpt.ge](shop.gpt.ge) 请自助下单充值，无需联系客服。
+下单地址[shop.gpt.ge](https://shop.gpt.ge) 请自助下单充值，无需联系客服。
 
 <div style="display:inline-flex;flex-direction: column;border: 1px solid #ddd; padding: 16px;border-radius: 10px;background-color: #fff; text-align: center;font-size: 16px;">
 <img src="./images/wx.jpg" alt="联系我们">
